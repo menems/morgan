@@ -16,7 +16,7 @@
     "morgan"
   ],
   "dependencies": {
-    "morgan": "github:expressjs/morgan"
+    "morgan": "^1.6.1"
   },
   "devDependencies": {
     "co": "^4.6.0",
